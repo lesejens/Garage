@@ -1,2 +1,2 @@
 # Garage
-Arduino based Garage controller
+Arduino based garage controller
