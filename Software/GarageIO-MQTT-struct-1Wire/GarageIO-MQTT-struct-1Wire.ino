@@ -1,6 +1,5 @@
 /*
   Basic MQTT example
-
 */
 
 #include <SPI.h>
@@ -271,4 +270,3 @@ void inputHandling() {
     i_Table[i].i_old = i_Table[i].i_reading;
   }
 }
-
