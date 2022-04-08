@@ -1,5 +1,5 @@
 # Garage
-Arduino based I/O-controller using configurable to connect to FHEM.
+Arduino based I/O-controller using configurable to connect to FHEM. TEst
 
 24VDC Power Supply required
 
