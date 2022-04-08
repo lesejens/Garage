@@ -1,5 +1,5 @@
 # Garage
-Arduino based I/O-controller using configurable Firmata to connect to FHEM.
+Arduino based I/O-controller using configurable to connect to FHEM.
 
 24VDC Power Supply required
 
